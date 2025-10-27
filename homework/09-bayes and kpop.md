@@ -9,6 +9,10 @@ Two students, A and B, each write long essays.
 If a page from an essay is found without a name and it contains 3 errors, what is the probability that it was written by Student A, given that it has 3 errors?
 (Hint 1: You may want to create a table to fill out) (Hint 2: Errors per page ~ Poisson)
 
+Step 1: Poisson probabilites
+P(X=k)= λ^k e^−λ​ / k!
+- Student A (λ = 2)
+- Student B (λ = 4)
 ---
 
 ### Question 2
